@@ -15,6 +15,9 @@
         <module>carmall-coupon</module>
         <module>carmall-ware</module>
         <module>carmall-order</module>
+        <module>renren-fast</module>
+        <module>renren-generator</module>
+        <module>carmall-common</module>
     </modules>
 
 </project>
